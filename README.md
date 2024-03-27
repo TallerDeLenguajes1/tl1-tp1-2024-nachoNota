@@ -15,3 +15,4 @@
 3. una vez dentro, agrego los archivos o palabras claves para ignorar archivos de mi preferencia. En este caso agrego la linea 'ignorado.txt' porque es el archivo que quiero ignorar. Al finalizar guardo los cambios.
 4. añado al área de staging y confirmo con Git utilizando 'git add .gitignore' y hago el commit correspondiente.
 5. Luego lo agrego al repositorio remoto utilizando el push.
+6. Por ultimo, si quiero agregar un archivo llamado ignorado.txt, sale el siguiente mensaje: 'The following paths are ignored by one of your .gitignore files: ignorado.txt'
