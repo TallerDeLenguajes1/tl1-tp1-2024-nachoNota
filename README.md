@@ -18,5 +18,5 @@ Debería configurarse el archivo .gitignore desde el momento en que se inicia un
 6. Por ultimo, si quiero agregar un archivo llamado ignorado.txt, sale el siguiente mensaje: 'The following paths are ignored by one of your .gitignore files: ignorado.txt'
 
 ## PUNTO 3
-    El resultado en los apartados 2 y 3 es el mismo ya que en los dos casos estamos pideindo la direccion de memoria de la variable.
-    En el punto 4 se obtiene la direccion de memoria del puntero, la cual es distinta a la direccion de la varible y a la que esta almacenada en el puntero ya que la variable puntero es una variable diferente que tiene su propia direccion de memoria.
+El resultado en los apartados 2 y 3 es el mismo ya que en los dos casos estamos pideindo la direccion de memoria de la variable.
+En el punto 4 se obtiene la direccion de memoria del puntero, la cual es distinta a la direccion de la varible y a la que esta almacenada en el puntero ya que la variable puntero es una variable diferente que tiene su propia direccion de memoria.
